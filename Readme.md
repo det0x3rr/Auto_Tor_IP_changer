@@ -1,4 +1,4 @@
-# $${\color{green} Auto\_Tor \_IP\_changer \space V 2.2 }$$
+# Auto_Tor_IP_changer V2.2
 ![](https://github.com/det0x3rr/Auto_Tor_IP_changer/blob/master/images/intro.gif)
 
 
